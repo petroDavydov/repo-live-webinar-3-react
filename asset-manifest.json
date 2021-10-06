@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/repo-live-webinar-3-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/repo-live-webinar-3-react/static/js/main.237476e2.chunk.js",
+    "main.js.map": "/repo-live-webinar-3-react/static/js/main.237476e2.chunk.js.map",
+    "runtime-main.js": "/repo-live-webinar-3-react/static/js/runtime-main.8cc96cc6.js",
+    "runtime-main.js.map": "/repo-live-webinar-3-react/static/js/runtime-main.8cc96cc6.js.map",
+    "static/js/2.1d29caf9.chunk.js": "/repo-live-webinar-3-react/static/js/2.1d29caf9.chunk.js",
+    "static/js/2.1d29caf9.chunk.js.map": "/repo-live-webinar-3-react/static/js/2.1d29caf9.chunk.js.map",
+    "static/js/3.562be65b.chunk.js": "/repo-live-webinar-3-react/static/js/3.562be65b.chunk.js",
+    "static/js/3.562be65b.chunk.js.map": "/repo-live-webinar-3-react/static/js/3.562be65b.chunk.js.map",
+    "index.html": "/repo-live-webinar-3-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/repo-live-webinar-3-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.1d29caf9.chunk.js.LICENSE.txt": "/repo-live-webinar-3-react/static/js/2.1d29caf9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/repo-live-webinar-3-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8cc96cc6.js",
+    "static/js/2.1d29caf9.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.237476e2.chunk.js"
+  ]
+}

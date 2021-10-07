@@ -1,0 +1,46 @@
+/* @import-normalize; */
+
+.App {
+  display: inline-block;
+  margin-top: 50px;
+}
+
+.app-title {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+  font-weight: 100;
+  padding: 0px;
+  text-shadow: 1px 3px 5px #cd34cd;
+  border-bottom: 1px solid #cd456c;
+  display: inline-block;
+}
+
+.counter {
+  display: flex;
+}
+.btn {
+  font-family: fantasy;
+  font-size: 50px;
+  margin: 10px;
+  background-color: inherit;
+  color: #000;
+  border: 1px solid #000;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  transition: 250ms ease;
+}
+
+.btn:hover {
+  border: 5px solid green;
+  box-shadow: 10px 10px 10px #cdcdcd;
+  transition: 250ms ease-in;
+  color: green;
+}
+
+.title-counter {
+  font-family: fantasy;
+  font-size: 100px;
+  margin: 0;
+  padding: 0;
+}
